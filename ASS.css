@@ -1,0 +1,142 @@
+html{
+    min-height: 100%;
+    background-image:url("b2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center center;
+}
+.t{
+    color:blue;
+    width: 500px;
+    position: relative;
+    top: 13px;
+    left: 70px;
+}
+td{
+    color: aliceblue;
+    padding: 40px;
+}
+.u{
+    position:absolute;
+    width: 500px;
+    top: 16px;
+    left: 300px;
+    font-size: 18px;
+}
+.wx{
+    position: absolute;
+    background-color: blueviolet;
+    top: 60px ;
+    left: 1000px;
+    font-size: 15px;
+    color:black ;
+}
+.wx::placeholder{
+    color: white;
+}
+.ty{
+    position: absolute;
+    background-color: black;
+    color: aliceblue;
+    top: 60px;
+    left: 1200px;
+}
+.ab{
+    width: 500px;
+    position: relative;
+    top: 150px;
+    left: 88px;
+    
+}
+h1{
+    font-family: sans-serif;
+    line-height: 18px;
+    font-size: 35px;
+}
+h5{
+    color: aliceblue;
+    line-height: 20px;
+}
+.m{
+    background-color:blue;
+    width: 150px;
+    height: 35px;
+    position: absolute;
+    border-radius:6px ;
+    text-align: center ;
+    bottom: 130px;
+    left: 88px;
+
+}
+#d{
+    background-color:aliceblue;
+    color: blue;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    border-radius:6px ;
+    text-align: center ;
+    bottom: 100px;
+    left: 290px;
+}
+.container{
+    width: 280px;
+    background-color: skyblue;
+    float: right;
+    margin-right: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 124px;
+    height: 350px;
+    line-height: 20px;
+}
+.here{
+ background-color: white;
+    width: 150px;
+    height: 35px;
+    position: relative;
+    border-radius:6px ;
+    text-align: center ;
+    left: 70px;
+    top: 10px;
+
+    
+}
+#bt{
+    background-color:blue;
+    width: 150px;
+    height: 35px;
+    position: relative;
+    border-radius:6px ;
+    text-align: center ;
+    
+
+}
+.r{
+    background-color: blueviolet; 
+    color:white;
+    width: 170px;
+    height: 100px;
+    position: absolute;
+    border-radius:6px ;
+    text-align: center ;
+    bottom: 100px;
+    left: 700px;
+}
+#ig{
+    position: absolute;
+    bottom: 10px;
+    left: 60px;
+    
+}
+marquee{
+    background-color: skyblue;
+    color: blueviolet;
+    direction:left;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
